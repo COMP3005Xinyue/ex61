@@ -1,0 +1,75 @@
+link:
+
+Output:
+Initial set up
+spy1  secret 1  and my clearance 10
+spy2  secret 2  and my clearance 5
+spy3  secret 3  and my clearance 2
+spy4  secret 4  and my clearance 20
+a1  ultra secret 1 
+m1  deep secret 1 
+cleaner   no secret 
+s4 status update
+spy1  secret 1  and my clearance 20
+spy2  secret 2  and my clearance 2
+spy3  secret 3  and my clearance 2
+spy4  secret 4  and my clearance 20
+a1  ultra secret 1 
+m1  deep secret 1 
+cleaner   no secret 
+s1 status update
+spy1  secret 2  and my clearance 20
+spy2  secret 1  and my clearance 2
+spy3  secret 3  and my clearance 2
+spy4  secret 4  and my clearance 20
+a1  ultra secret 1 
+m1  deep secret 1 
+cleaner   no secret 
+spy2 status update
+spy1  secret 2  and my clearance 20
+spy2  secret 1  secret 3  and my clearance 2
+spy3  secret 3  and my clearance 2
+spy4  secret 4  and my clearance 20
+a1  ultra secret 1 
+m1  deep secret 1 
+cleaner   no secret 
+s3 status update
+spy1  secret 2  and my clearance 20
+spy2  secret 1  secret 3  and my clearance 2
+spy3  secret 3  and my clearance 22
+spy4  secret 4  and my clearance 0
+a1  ultra secret 1 
+m1  deep secret 1 
+cleaner   no secret 
+s4 status update
+spy1  secret 2  and my clearance 20
+spy2  secret 1  secret 3  and my clearance 2
+spy3  secret 3  and my clearance 22
+spy4  secret 4  and my clearance 0
+a1  ultra secret 1 
+m1  deep secret 1 
+cleaner   no secret 
+a1 status update
+spy1  secret 2  and my clearance 20
+spy2  secret 1  secret 3  and my clearance 2
+spy3  secret 3  and my clearance 22
+spy4  secret 4  and my clearance 0
+a1  secret 3 
+m1  forgotten
+cleaner   no secret 
+m1 status update
+spy1  secret 2  and my clearance 20
+spy2  secret 1  secret 3  and my clearance 2
+spy3  secret 3  and my clearance 22
+spy4  forgotten and my clearance 0
+a1  secret 3 
+m1  secret 4 
+cleaner   no secret 
+cleaner status update
+spy1  secret 2  and my clearance 20
+spy2  secret 1  secret 3  and my clearance 2
+spy3  secret 3  and my clearance 22
+spy4  forgotten and my clearance 0
+null
+null
+cleaner   no secret 
